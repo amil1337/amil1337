@@ -4,7 +4,17 @@
 I'm a second-year Computer Science student at Bilkent University. I have real-world experience in frontend development, and I'm currently strengthening my Java skills while learning Spring Boot.
 
 ## Contact Me
-<p><a href="www.linkedin.com/in/amilibrahimli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/amilibrahimli_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
+<p>
+  <a href="https://amil-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000.svg?&style=flat-square&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+  <a href="https://www.linkedin.com/in/amilibrahimli" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/amilibrahimli_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 ## Skills
 
